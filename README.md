@@ -19,12 +19,14 @@ Steps to run application:
 
 5) Open localhost:8080 on your favorite browser.
 
--- Features --
+----------------------------------------------------------------------------------------------------------------
+Features
 
 - Sign up
 - Secure log in and log off
 - Users can publish content to their page
 - Users can view other users' profile and posts
+-----------------------------------------------------------------------------------------------------------------
 
 Special thanks to 
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)

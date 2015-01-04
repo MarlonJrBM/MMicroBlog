@@ -1,4 +1,4 @@
-# This is a simple Microblog with sing in written in Ruby on Rails.
+# This is a simple Microblog written in Ruby on Rails.
 
 
 Ruby Version: 2.0.0
@@ -19,7 +19,7 @@ Steps to run application:
 
 5) Open localhost:8080 on your favorite browser.
 
-# Features
+-- Features --
 
 - Sign up
 - Secure log in and log off

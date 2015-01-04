@@ -26,6 +26,7 @@ Features
 - Secure log in and log off
 - Users can publish content to their page
 - Users can view other users' profile and posts
+
 -----------------------------------------------------------------------------------------------------------------
 
 Special thanks to 
